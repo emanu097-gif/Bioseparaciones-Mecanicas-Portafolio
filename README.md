@@ -1,54 +1,82 @@
 # Clase 1: Introducción a las Bioseparaciones y Bioprocesos Industriales
 
 ## 1. Contexto Industrial y Clasificación de las Operaciones
-En el esquema general de las industrias biotecnológica y de bioprocesos, las etapas de producción se estructuran rigurosamente en dos grandes bloques tecnológicos:
+En el esquema general de las industrias biotecnológica, farmacéutica y de bioprocesos, las etapas de producción se dividen en dos grandes bloques tecnológicos:
 
-* **Operaciones Previas a la Fermentación o "Upstream":** Acondicionamiento del medio de cultivo, esterilización de equipos/sustratos, formulación de nutrientes y la inoculación de la biomasa microbiana o celular en el biorreactor[cite: 1].
-* **Operaciones de Bioseparación o "Downstream":** Tratamientos fisicoquímicos y mecánicos posteriores a la bioconversión[cite: 1]. Su objetivo es recuperar, aislar, purificar y formular el bioproducto de interés a partir del caldo agotado[cite: 1].
+* **Operaciones Previas a la Fermentación ("Upstream"):** Corresponden a todos los tratamientos previos a la etapa de bioconversión. Incluyen el acondicionamiento del medio de cultivo, la esterilización de equipos y sustratos, la formulación de nutrientes y la preparación e inoculación de la biomasa microbiana, celular o fúngica en el biorreactor.
+* **Operaciones de Bioseparación ("Downstream"):** Abarcan todos los tratamientos fisicoquímicos y mecánicos posteriores a la fase de bioconversión. Su principal objetivo es recuperar, aislar, purificar y formular la molécula o bioproducto de interés a partir del caldo de cultivo o mezcla de reacción agotada. Se seleccionan con base en la pureza y las características requeridas para la biomolécula.
 
-### Ubicación del Producto de Interés
-* **Productos Intracelulares:** Requieren una etapa previa de **ruptura celular** (homogeneización a alta presión, molienda o lisis)[cite: 1], seguida de la separación de los restos celulares (*debris*) de la fase soluble[cite: 1].
-* **Productos Extracelulares o Biomasa como Producto:** Requieren la separación directa de las células suspendidas del caldo agotado[cite: 1].
+### Criterio de Selección según la Ubicación Celular
+* **Productos Intracelulares:** Cuando el producto de interés se encuentra dentro de la célula, es estrictamente necesario realizar una etapa previa de **ruptura celular**, seguida indispensablemente por la separación de los restos celulares (*debris*) de la fase líquida soluble.
+* **Productos Extracelulares o Biomasa como Producto:** Cuando el producto es secretado al medio o cuando la biomasa misma es el producto deseado, se requiere separar directamente las células suspendidas del caldo agotado, el cual posteriormente será tratado según el nivel de purificación requerido.
 
 ---
 
-## 2. Generaciones de Bioprocesos
+## 2. Clasificación por Generaciones de Bioprocesos
+Histórica y tecnológicamente, la aplicación de bioprocesos a escala industrial se clasifica en tres generaciones distintas:
 
 | Característica | Primera Generación | Segunda Generación | Tercera Generación |
 | :--- | :--- | :--- | :--- |
 | **Período histórico** | Previo a 1975 | 1975 – 1985 | 1985 – Presente |
-| **Tipo de células** | No recombinantes (silvestres) | Recombinantes (*E. coli*, *S. cerevisiae*) | Recombinantes avanzadas / Mamíferos / Insecto |
-| **Fortaleza celular** | Alta (paredes rígidas) | Alta | Baja (sensibles al cizallamiento) |
-| **Velocidad crecimiento**| Rápido | Rápido | Lento |
-| **Mantenimiento** | Bajo | Bajo | Alto |
-| **Ejemplos bioproductos**| Solventes, ácidos orgánicos, antibióticos | Insulina humana, hGH | Factor VIII, tPA, EPO, mAbs |
-| **Localización** | Extracelular / Intracelular | Intracelular | Extracelular |
-| **Pureza deseada** | Alta | Muy alta | Extremadamente alta (>99.99%) |
-| **Valor ($/kg)** | Bajo | Alto | Alto / Excepcional |
+| **Tipo de células empleadas** | No recombinantes (cepas silvestres o mutadas) | Recombinantes (*E. coli*, *S. cerevisiae*) | Recombinantes avanzadas, células de mamífero, células de insecto |
+| **Fortaleza de las células** | Alta (paredes celulares rígidas) | Alta | Baja (alta sensibilidad al cizallamiento e hidrodinámica) |
+| **Velocidad de crecimiento** | Rápido | Rápido | Lento |
+| **Mantenimiento** | Bajo | Bajo | Alto mantenimiento técnico y nutricional |
+| **Conocimiento de propiedades básicas** | Alto | Alto | Medio |
+| **Conocimiento tecnológico** | Alto | Alto | Medio |
+| **Ejemplos de bioproductos** | Antibióticos tradicionales, aminoácidos, solventes | Insulina humana, hormona de crecimiento humana (HC) | Factor VIII, tPA, Eritropoyetina (EPO), Anticuerpos monoclonales (mAb) |
+| **Localización del producto** | Extracelular e Intracelular | Intracelular | Extracelular |
+| **Tamaño molecular** | Intermedio | Macromoléculas | Macromoléculas |
+| **Actividad al secretarse** | Sí | No | Sí |
+| **Pureza deseada** | Alta | Muy alta | Muy alta / Extremadamente alta |
+| **Similitud con contaminantes** | Baja | Alta | Alta |
+| **Valor de mercado ($/kg)** | Bajo | Alto | Alto / Excepcional |
+
+### Estadísticas de Sistemas de Expresión en Bioproductos Recombinantes
+En la década de los 2000 se registraban 151 productos recombinantes aprobados por la FDA y EMEA, distribuidos según el sistema de producción:
+* **59** obtenidos en células de mamífero.
+* **45** obtenidos en *Escherichia coli*.
+* **28** obtenidos en *Saccharomyces cerevisiae*.
+* **17** obtenidos en hibridomas.
+* **1** obtenido en leche de cabra.
+* **1** obtenido en células de insecto.
 
 ---
 
 ## 3. Análisis Económico e Impacto Financiero del Downstream
-Las bioseparaciones representan entre el **20% y el 80% del costo total de producción** en la industria biotecnológica[cite: 1].
+Los productos obtenidos mediante la aplicación de tecnología biológica son en general de **alto valor añadido**, superando con frecuencia el valor de las especialidades de la industria química tradicional.
 
-### Costo de Bioseparación por Bioproducto
-* **Disolventes:** 15 – 20%[cite: 1]
-* **Células y extractos celulares:** 20 – 25%[cite: 1]
-* **Ácidos orgánicos / Aminoácidos:** 30 – 40%[cite: 1]
-* **Antibióticos:** 20 – 60%[cite: 1]
-* **Enzimas industriales:** 40 – 65%[cite: 1]
-* **Proteínas terapéuticas / r-ADN:** 60 – 80%[cite: 1]
-* **Proteínas plasmáticas:** 70 – 80%[cite: 1]
+La incidencia económica del costo de la bioseparación sobre el costo directo de producción oscila entre un **20% como mínimo y hasta un 80%**. A medida que la especialización del bioproducto es mayor, el costo de separación aumenta debido al uso de técnicas menos convencionales.
 
-### Causas del Elevado Coste
-1. **Baja concentración inicial:** El producto suele encontrarse en concentraciones del orden de mg/L o µg/L en el caldo[cite: 1].
-2. **Altos grados de pureza exigidos:** Productos inyectables requieren purezas de hasta el 99.999%[cite: 1].
-3. **Termolabilidad de biomoléculas:** Susceptibles a desnaturalización por calor, pH o cizallamiento[cite: 1].
+### Costo de Bioseparación por Categoría de Bioproducto
+* **Disolventes:** 15 – 20 %
+* **Células y extractos celulares crudos:** 20 – 25 %
+* **Ácidos orgánicos, vitaminas y aminoácidos:** 30 – 40 %
+* **Biopolímeros:** 40 – 50 %
+* **Antibióticos:** 20 – 60 %
+* **Enzimas industriales:** 40 – 65 %
+* **Proteínas terapéuticas (no recombinantes):** 50 – 70 %
+* **r-ADN:** 60 – 80 %
+* **Anticuerpos monoclonales:** 50 – 70 %
+* **Ácidos nucleicos y derivados:** 60 – 80 %
+* **Proteínas plasmáticas:** 70 – 80 %
+
+### Causas del Elevado Costo de Bioseparación
+1. **Pequeña concentración del bioproducto:** La concentración en el caldo final de fermentación suele ser extremadamente baja, llegando en ocasiones a ser del orden de mg/L.
+2. **Elevado grado de pureza requerido:** Diversos bioproductos obligan a integrar múltiples etapas de separación para procesar mezclas complejas y remover impurezas interferentes.
+3. **Complejidad operativa:** Las múltiples separaciones y recuperaciones exigen mayor cantidad de equipos y personal especializado.
+4. **Termolabilidad y labilidad estructural:** Varios bioproductos se desnaturalizan con el calor o son sensibles a gradientes de corte elevados, requiriendo técnicas delicadas en el control de temperatura, pH y fuerza iónica.
+
+### Requerimientos de Pureza según el Uso Comercial
+| Utilización | Dosis típica | Pureza Requerida (%) |
+| :--- | :--- | :--- |
+| **Diagnóstico** | *In vitro* | 95 % |
+| **Vacuna** | 100 mg | 99 % |
+| **Eritropoyetina (EPO)** | 1 g | 99.9 % |
+| **Superóxido dismutasa (SOD)** | 3 g | 99.99 % |
+| **Hormona del crecimiento humano (HGH)** | > 10 g | 99.999 % |
 
 ---
 
-## 4. Secuencia Operativa Típica
-1. **Generación y separación de partículas:** Operaciones mecánicas (sedimentación, centrifugación, filtración, homogeneización)[cite: 1].
-2. **Aislamiento del producto:** Remoción masiva de agua e impurezas mayores (adsorción, extracción líquido-líquido, ultrafiltración)[cite: 1].
-3. **Purificación:** Fraccionamiento de alta resolución (cromatografía líquida, cristalización)[cite: 1].
-4. **Acabado:** Formulaciones finales y secado/liofilización[cite: 1].
+## 4. Secuencia Operativa Típica en Bioseparaciones
+Del fermentador hacia adelante, las operaciones se ordenan de manera secuencial con el fin de aumentar progresivamente la fracción de materia activa y/o la pureza hasta el valor final requerido:
