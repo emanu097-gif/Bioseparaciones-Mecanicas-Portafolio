@@ -1,19 +1,19 @@
 # Clase 1: Introducción a las Bioseparaciones y Bioprocesos Industriales
 
-## 1. Contexto Industrial y Clasificación de las Operaciones
-En el esquema general de las industrias biotecnológica, farmacéutica y de bioprocesos, las etapas de producción se dividen en dos grandes bloques tecnológicos:
+## 1. Panorama Industrial y Clasificación Operativa
+En el ámbito de la biotecnología industrial y farmacéutica, las etapas de transformación se dividen en dos fases operativas principales:
 
-* **Operaciones Previas a la Fermentación ("Upstream"):** Corresponden a todos los tratamientos previos a la etapa de bioconversión. Incluyen el acondicionamiento del medio de cultivo, la esterilización de equipos y sustratos, la formulación de nutrientes y la preparación e inoculación de la biomasa microbiana, celular o fúngica en el biorreactor.
-* **Operaciones de Bioseparación ("Downstream"):** Abarcan todos los tratamientos fisicoquímicos y mecánicos posteriores a la fase de bioconversión. Su principal objetivo es recuperar, aislar, purificar y formular la molécula o bioproducto de interés a partir del caldo de cultivo o mezcla de reacción agotada. Se seleccionan con base en la pureza y las características requeridas para la biomolécula.
+* **Etapas Previas o Upstream:** Comprenden la preparación del sistema previo a la reacción biológica. Incluyen la formulación y esterilización de los medios de cultivo, la preparación de sustratos, la adecuación de los biorreactores y el acondicionamiento del inóculo microbiano o celular.
+* **Etapas de Bioseparación o Downstream:** Abarcan el conjunto de procesos mecánicos y fisicoquímicos ejecutados tras la bioconversión. Tienen como fin recuperar, aislar, purificar y formular la molécula blanco a partir del medio agotado, ajustándose a los estándares de pureza del producto final.
 
-### Criterio de Selección según la Ubicación Celular
-* **Productos Intracelulares:** Cuando el producto de interés se encuentra dentro de la célula, es estrictamente necesario realizar una etapa previa de **ruptura celular**, seguida indispensablemente por la separación de los restos celulares (*debris*) de la fase líquida soluble.
-* **Productos Extracelulares o Biomasa como Producto:** Cuando el producto es secretado al medio o cuando la biomasa misma es el producto deseado, se requiere separar directamente las células suspendidas del caldo agotado, el cual posteriormente será tratado según el nivel de purificación requerido.
+### Estrategia de Separación según la Localización del Producto
+* **Bioproductos Intracelulares:** Al encontrarse dentro de la matriz celular, requieren una etapa inicial de **desrupción o lisis celular** (química, enzimática o mecánica), seguida de la remoción de los detritos o restos celulares insolubles (*debris*) para liberar la fase líquida con el producto.
+* **Bioproductos Extracelulares o Biomasa:** Si el metabolito es secretado al medio o si la célula en sí es el producto de interés, la primera acción consiste en separar directamente la masa celular del líquido agotado.
 
 ---
 
-## 2. Clasificación por Generaciones de Bioprocesos
-Histórica y tecnológicamente, la aplicación de bioprocesos a escala industrial se clasifica en tres generaciones distintas:
+## 2. Clasificación Evolutiva de los Bioprocesos
+El desarrollo tecnológico en bioprocesos se categoriza habitualmente en tres etapas o generaciones:
 
 | Característica | Primera Generación | Segunda Generación | Tercera Generación |
 | :--- | :--- | :--- | :--- |
@@ -32,23 +32,23 @@ Histórica y tecnológicamente, la aplicación de bioprocesos a escala industria
 | **Similitud con contaminantes** | Baja | Alta | Alta |
 | **Valor de mercado ($/kg)** | Bajo | Alto | Alto / Excepcional |
 
-### Estadísticas de Sistemas de Expresión en Bioproductos Recombinantes
-En la década de los 2000 se registraban 151 productos recombinantes aprobados por la FDA y EMEA, distribuidos según el sistema de producción:
-* **59** obtenidos en células de mamífero.
-* **45** obtenidos en *Escherichia coli*.
-* **28** obtenidos en *Saccharomyces cerevisiae*.
-* **17** obtenidos en hibridomas.
+### Distribución de Sistemas de Expresión (Estadística 2000s)
+De un total de 151 bioproductos recombinantes aprobados por entidades reguladoras (FDA/EMEA) en dicho período, la producción se desglosó en los siguientes hospederos:
+* **59** obtenidos en cultivos celulares de mamífero.
+* **45** producidos mediante *Escherichia coli*.
+* **28** sintetizados en *Saccharomyces cerevisiae*.
+* **17** derivados de hibridomas.
 * **1** obtenido en leche de cabra.
-* **1** obtenido en células de insecto.
+* **1** producido en cultivos celulares de insecto.
 
 ---
 
-## 3. Análisis Económico e Impacto Financiero del Downstream
-Los productos obtenidos mediante la aplicación de tecnología biológica son en general de **alto valor añadido**, superando con frecuencia el valor de las especialidades de la industria química tradicional.
+## 3. Impacto Financiero y Desafíos Económicos del Downstream
+Las biomoléculas obtenidas por vía biotecnológica destacan por su elevado valor comercial en comparación con los insumos químicos sintéticos tradicionales.
 
-La incidencia económica del costo de la bioseparación sobre el costo directo de producción oscila entre un **20% como mínimo y hasta un 80%**. A medida que la especialización del bioproducto es mayor, el costo de separación aumenta debido al uso de técnicas menos convencionales.
+El costo asociado al procesamiento downstream representa **entre el 20% y el 80% de los costos directos de producción**. Esta proporción aumenta exponencialmente conforme el producto requiere tecnologías de separación más complejas o especializadas.
 
-### Costo de Bioseparación por Categoría de Bioproducto
+### Distribución del Costo de Bioseparación por Categoría
 * **Disolventes:** 15 – 20 %
 * **Células y extractos celulares crudos:** 20 – 25 %
 * **Ácidos orgánicos, vitaminas y aminoácidos:** 30 – 40 %
@@ -61,13 +61,13 @@ La incidencia económica del costo de la bioseparación sobre el costo directo d
 * **Ácidos nucleicos y derivados:** 60 – 80 %
 * **Proteínas plasmáticas:** 70 – 80 %
 
-### Causas del Elevado Costo de Bioseparación
-1. **Pequeña concentración del bioproducto:** La concentración en el caldo final de fermentación suele ser extremadamente baja, llegando en ocasiones a ser del orden de mg/L.
-2. **Elevado grado de pureza requerido:** Diversos bioproductos obligan a integrar múltiples etapas de separación para procesar mezclas complejas y remover impurezas interferentes.
-3. **Complejidad operativa:** Las múltiples separaciones y recuperaciones exigen mayor cantidad de equipos y personal especializado.
-4. **Termolabilidad y labilidad estructural:** Varios bioproductos se desnaturalizan con el calor o son sensibles a gradientes de corte elevados, requiriendo técnicas delicadas en el control de temperatura, pH y fuerza iónica.
+### Factores Determinantes del Alto Costo
+1. **Dilución Extrema:** El producto de interés suele estar presente en concentraciones muy bajas dentro del caldo fermentado (incluso en rangos de mg/L).
+2. **Requisitos de Pureza Rigurosos:** Para uso médico o biotecnológico avanzado, se exige la eliminación casi total de contaminantes moleculares complejos.
+3. **Complejidad en la Cadena Operativa:** Reaccionar ante mezclas complejas demanda una secuencia prolongada de etapas, mayor consumo energético, infraestructura especializada y personal capacitado.
+4. **Labilidad de las Biomoléculas:** La sensibilidad térmica, la labilidad a cambios de pH o la desnaturalización por esfuerzos de cizallamiento hidrocarburo limitan el uso de separaciones industriales drásticas, obligando a emplear métodos de separación más suaves y costosos.
 
-### Requerimientos de Pureza según el Uso Comercial
+### Requerimientos de Pureza según la Aplicación Comercial
 | Utilización | Dosis típica | Pureza Requerida (%) |
 | :--- | :--- | :--- |
 | **Diagnóstico** | *In vitro* | 95 % |
@@ -78,15 +78,15 @@ La incidencia económica del costo de la bioseparación sobre el costo directo d
 
 ---
 
-## 4. Secuencia Operativa Típica en Bioseparaciones
-Del fermentador hacia adelante, las operaciones se ordenan de manera secuencial con el fin de aumentar progresivamente la fracción de materia activa y/o la pureza hasta el valor final requerido
-### Clasificación Secuencial del Proceso Downstream
-1. **Generación y separación de partículas:** Operaciones mecánicas iniciales para remover fases insolubles (Sedimentación, centrifugación, floculación, homogeneización, filtración y precipitación).
-2. **Aislamiento del producto:** Remoción masiva de agua para concentrar la corriente primaria (Adsorción-desorción, extracción líquido-líquido, ultrafiltración).
-3. **Purificación del producto:** Fraccionamiento de alta resolución para eliminar impurezas molecularmente similares (Cromatografía líquida, métodos de afinidad, cristalización).
-4. **Operaciones de acabado:** Etapas finales para dar estabilidad y presentación comercial (Deshidratación, secado).
+## 4. Esquema Secuencial de Operaciones en Bioseparación
+Las operaciones unitarias de recuperación se organizan en forma lineal y lógica a partir del efluente del biorreactor, incrementando gradualmente la pureza y la concentración de la molécula activa 
+### Etapas Fundamentales del Procesamiento Downstream
+1. **Separación Clarificante / Particulada:** Operaciones físicas iniciales orientadas a eliminar sólidos insolubles (sedimentación, centrifugación, filtración, floculación o ruptura celular).
+2. **Concentración o Aislamiento Primario:** Remoción sustancial del agua y componentes mayoritarios para reducir el volumen a procesar (adsorción, extracción líquido-líquido, ultrafiltración).
+3. **Purificación de Alta Resolución:** Eliminación de impurezas moleculares muy similares al producto blanco (cromatografía de diversos tipos, cristalización).
+4. **Formulación y Acabado:** Operaciones finales que garantizan la vida útil y estabilidad comercial del producto (deshidratación, liofilización, secado).
 
-### Ejemplo de Enriquecimiento en la Obtención de Antibióticos
+### Ejemplo de Concentración Progresiva en Antibióticos
 
 | Etapa | Proceso | Concentración (g/L) | Materia Activa (%) |
 | :--- | :--- | :--- | :--- |
