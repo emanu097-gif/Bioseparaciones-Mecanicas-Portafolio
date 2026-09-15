@@ -79,4 +79,19 @@ La incidencia económica del costo de la bioseparación sobre el costo directo d
 ---
 
 ## 4. Secuencia Operativa Típica en Bioseparaciones
-Del fermentador hacia adelante, las operaciones se ordenan de manera secuencial con el fin de aumentar progresivamente la fracción de materia activa y/o la pureza hasta el valor final requerido:
+Del fermentador hacia adelante, las operaciones se ordenan de manera secuencial con el fin de aumentar progresivamente la fracción de materia activa y/o la pureza hasta el valor final requerido
+### Clasificación Secuencial del Proceso Downstream
+1. **Generación y separación de partículas:** Operaciones mecánicas iniciales para remover fases insolubles (Sedimentación, centrifugación, floculación, homogeneización, filtración y precipitación).
+2. **Aislamiento del producto:** Remoción masiva de agua para concentrar la corriente primaria (Adsorción-desorción, extracción líquido-líquido, ultrafiltración).
+3. **Purificación del producto:** Fraccionamiento de alta resolución para eliminar impurezas molecularmente similares (Cromatografía líquida, métodos de afinidad, cristalización).
+4. **Operaciones de acabado:** Etapas finales para dar estabilidad y presentación comercial (Deshidratación, secado).
+
+### Ejemplo de Enriquecimiento en la Obtención de Antibióticos
+
+| Etapa | Proceso | Concentración (g/L) | Materia Activa (%) |
+| :--- | :--- | :--- | :--- |
+| **Caldo de cultivo** | Fermentación | 0.1 – 5 | 0.1 – 1 % |
+| **Separación de insolubles** | Filtración | 1 – 5 | 0.2 – 2 % |
+| **Aislamiento** | Extracción | 5 – 50 | 1 – 10 % |
+| **Purificación** | Cromatografía | 50 – 200 | 50 – 80 % |
+| **Acabado** | Cristalización | 50 – 200 | 90 – 100 % |
