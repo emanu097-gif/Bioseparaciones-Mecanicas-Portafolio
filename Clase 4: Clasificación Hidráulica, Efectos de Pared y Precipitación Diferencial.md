@@ -1,4 +1,4 @@
-# Clase 3: Clasificación Hidráulica, Efectos de Pared y Precipitación Diferencial
+# Clase 4: Clasificación Hidráulica, Efectos de Pared y Precipitación Diferencial
 
 En esta sección se revisan las desviaciones de la sedimentación libre ideal debido a límites físicos del recipiente (**efecto de pared**) y se analiza la teoría de **clasificación hidráulica y sedimentación diferencial** para mezclas binarias de partículas.
 
