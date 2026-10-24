@@ -30,10 +30,10 @@ Se subdivide en dos tipos fundamentales:
 
 | Característica | Centrifugación Zonal | Centrifugación Isopícnica |
 | :--- | :--- | :--- |
-| **Mecanismo** | Separa por tamaño y forma (clasificación por velocidades de sedimentación). | Separa exclusivamente por densidad de la partícula[cite: 2]. |
-| **Equilibrio** | No alcanza el equilibrio termodinámico de sedimentación[cite: 2]. | Sí alcanza el equilibrio de sedimentación[cite: 2]. |
-| **Velocidad** | Más rápida[cite: 2]. | Lenta (requiere tiempo para alcanzar el equilibrio)[cite: 2]. |
-| **Comportamiento** | Las partículas forman bandas discretas según qué tan rápido viajan por el tubo[cite: 2]. | Las partículas se estabilizan en la zona exacta donde la densidad del medio iguala la suya[cite: 2]. |
+| **Mecanismo** | Separa por tamaño y forma (clasificación por velocidades de sedimentación). | Separa exclusivamente por densidad de la partícula. |
+| **Equilibrio** | No alcanza el equilibrio termodinámico de sedimentación. | Sí alcanza el equilibrio de sedimentación. |
+| **Velocidad** | Más rápida. | Lenta (requiere tiempo para alcanzar el equilibrio). |
+| **Comportamiento** | Las partículas forman bandas discretas según qué tan rápido viajan por el tubo. | Las partículas se estabilizan en la zona exacta donde la densidad del medio iguala la suya|
 
 ---
 
