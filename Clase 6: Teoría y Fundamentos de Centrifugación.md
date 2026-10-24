@@ -42,6 +42,7 @@ Se subdivide en dos tipos fundamentales:
 El diseño y escalamiento de centrífugas (especialmente las de tazón cilíndrico tubular) requiere analizar la trayectoria de las partículas.
 
 ```text
+```
 Esquema de Centrífuga Tubular (Vista Transversal)
 |-------------------------------------|
 |               |  (Fase líquida)     |
