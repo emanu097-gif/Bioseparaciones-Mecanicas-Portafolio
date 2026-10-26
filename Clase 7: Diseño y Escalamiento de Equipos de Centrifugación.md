@@ -55,10 +55,10 @@ $$Q_{50\%} = 2 v_g \Sigma$$
 * **Para 50%:** $\Sigma = \left(\frac{\pi\omega^2 L}{g}\right) \left[ \frac{R_o^2 - R_1^2}{\ln\left(\frac{2R_o^2}{R_o^2 + R_1^2}\right)} \right]$[cite: 21]
 
 **Ley de Escalamiento:**
-Si pasamos de un equipo a otro manteniendo la misma suspensión, la relación de capacidades es directa[cite: 29]:
+Si pasamos de un equipo a otro manteniendo la misma suspensión, la relación de capacidades es directa:
 $$\frac{Q_1}{\Sigma_1} = \frac{Q_2}{\Sigma_2}$$
 
-### Valores Típicos de Sigma ($\Sigma$ en m²)[cite: 29]
+### Valores Típicos de Sigma ($\Sigma$ en m²)
 | Tipo de Centrífuga | Rango de Factor $\Sigma$ |
 | :--- | :--- |
 | Intermitente | 20 - 200 |
