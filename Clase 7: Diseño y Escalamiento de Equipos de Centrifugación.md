@@ -48,7 +48,7 @@ $$Q = v_g \left[ \frac{2\pi n \omega^2}{3g} (R_o^3 - R_1^3) \cot \theta \right]$
 
 El valor Sigma ($\Sigma$) representa el área equivalente de un sedimentador gravitacional que tendría la misma capacidad que la centrífuga[cite: 20]. Es la variable maestra para comparar y escalar equipos porque agrupa toda la geometría y la cinemática de la máquina:
 $$Q = v_g \Sigma$$
-$$Q_{50\%} = 2 v_g \Sigma$$
+$$Q_{50} = 2 v_g \Sigma$$
 
 **Fórmulas del Factor Sigma para Tubulares:**
 * **Para 100%:** $\Sigma = \left(\frac{\pi\omega^2 L}{g}\right) \left[ \frac{R_o^2 - R_1^2}{\ln(R_o/R_1)} \right]$[cite: 20]
