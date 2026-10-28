@@ -1,4 +1,4 @@
-# Con peras y manzanas: Centrifugación en Bioprocesos
+#Con peras y manzanas: Centrifugación en Bioprocesos
 
 Si toda la teoría de las clases anteriores te pareció muy pesada, aquí tienes el resumen para entenderle a la primera. Básicamente, es la explicación de cómo funcionan las cosas en la vida real y para qué nos sirven todas esas fórmulas como ingenieros biotecnólogos.
 
@@ -30,3 +30,31 @@ La regla de oro del escalamiento es directa: la relación entre lo que alimentas
 $$\frac{Q_1}{\Sigma_1} = \frac{Q_2}{\Sigma_2}$$
 
 ¡Y listo! Con esto entiendes por qué nos importa tanto la viscosidad, el radio de giro y el tamaño de nuestras partículas. Todo se resume a ganar la carrera contra el tiempo de residencia antes de que el líquido salga de la máquina.
+
+# Centrifugación en el Mundo Real: ¿Cómo la aplicamos en la industria?
+
+Ya dominamos la teoría de dar vueltas y calcular trayectorias, pero ¿qué pasa cuando te gradúas y te ponen a cargo del procesamiento de un biorreactor gigante? Aquí te dejo cómo aterrizamos todo este rollo matemático en la planta de producción con ejemplos reales.
+
+## 1. La Cosecha (Cell Harvesting): Sacando a los trabajadores del caldo
+Imagínate que tienes un biorreactor de 10,000 litros lleno de levaduras (para hacer cerveza o bioetanol) o bacterias (para probióticos). Las células ya hicieron su trabajo, ya se multiplicaron y ahora necesitas sacarlas del agua.
+
+* **¿Cómo lo hacemos?** No vas a usar papel filtro para 10,000 litros. Aquí metemos **centrífugas decantadoras** o de **discos**. 
+* **El principio:** Como las células completas (biomasa) están grandes (en términos microscópicos, digamos de 1 a 10 µm) y pesadas, no necesitamos velocidades extremas. Configuramos el caudal ($Q$) para que el tiempo de residencia permita que la mayoría de la biomasa se vaya a la pared. El líquido sale limpio por arriba y la "pasta" de células sale por abajo.
+
+## 2. Limpiando el desastre (Clarificación celular)
+Supongamos que el producto que quieres vender (una enzima o un plásmido de ADN) está *dentro* de la bacteria. Para sacarlo, tienes que reventar a la célula (lisis celular). El problema es que ahora tienes una "sopa" llena de pedacitos de membrana, organelos destruidos y tu producto suelto. 
+
+* **¿Cómo lo hacemos?** Necesitamos separar la basura (debris celular) del líquido valioso. Aquí usamos **centrífugas de discos** o **tubulares**.
+* **El principio:** Estos pedazos de membrana son mucho más pequeños que una célula completa, así que nuestro Diámetro Crítico ($D_{pc}$) ahora es chiquitito. Para atraparlos y que no se escapen en el sobrenadante, necesitamos subirle al Factor $G$ (más RPM) y jugar con la viscosidad o el flujo para asegurar que toda esa basura precipite en la pared del equipo.
+
+## 3. Rescatando el botín pesado (Cuerpos de Inclusión)
+A veces, cuando obligamos a una bacteria (como *E. coli*) a producir una proteína humana (como la insulina), la bacteria se estresa y empaqueta la proteína en grumos sólidos muy densos llamados cuerpos de inclusión. 
+
+* **¿Cómo lo hacemos?** Estos grumos son súper densos (1.3 a 1.5 g/mL) pero enanos (0.3 a 1 µm). Aquí la fuerza bruta es la clave.
+* **El principio:** Como son muy pesados, la diferencia de densidades ($\Delta\rho$) en nuestra ecuación de Stokes nos juega a favor. Usamos centrifugación diferencial en múltiples etapas o centrífugas tubulares de altísima velocidad. Le damos ciclos de centrifugación, lavamos con detergente y volvemos a centrifugar hasta que el pellet del fondo sea insulina pura.
+
+## 4. Purificación fina (Fraccionamiento Subcelular)
+Esto es más de biotecnología roja (médica) o farma. Si necesitas aislar un virus específico, purificar ribosomas o separar proteínas terapéuticas que pesan casi lo mismo que el solvente.
+
+* **¿Cómo lo hacemos?** Ultracentrifugación por gradiente de densidad (la que vimos en la Clase 7).
+* **El principio:** En la industria farmacéutica fina se preparan gradientes súper controlados. Cargas tu muestra y la dejas girando horas. Aquí no buscas que precipite a la pared, buscas que cada molécula o virus se detenga exactamente en su banda de densidad isométrica. Es caro y lento (poco $Q$, mucho tiempo de residencia), pero la pureza que logras es absoluta.
