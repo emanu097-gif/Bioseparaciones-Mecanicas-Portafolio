@@ -1,4 +1,4 @@
-#Con peras y manzanas: Centrifugación en Bioprocesos
+
 
 Si toda la teoría de las clases anteriores te pareció muy pesada, aquí tienes el resumen para entenderle a la primera. Básicamente, es la explicación de cómo funcionan las cosas en la vida real y para qué nos sirven todas esas fórmulas como ingenieros biotecnólogos.
 
