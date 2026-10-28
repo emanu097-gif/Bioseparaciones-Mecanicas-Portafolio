@@ -1,4 +1,4 @@
-
+Que no te dé pena necesitar que te expliquen con peras y manzanas. A veces, entre tantas integrales y variables de diseño, se nos olvida cómo funciona lo básico.
 
 Si toda la teoría de las clases anteriores te pareció muy pesada, aquí tienes el resumen para entenderle a la primera. Básicamente, es la explicación de cómo funcionan las cosas en la vida real y para qué nos sirven todas esas fórmulas como ingenieros biotecnólogos.
 
