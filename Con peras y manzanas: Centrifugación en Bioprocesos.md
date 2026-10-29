@@ -2,12 +2,12 @@ Que no te dé pena necesitar que te expliquen con peras y manzanas. A veces, ent
 
 Si toda la teoría de las clases anteriores te pareció muy pesada, aquí tienes el resumen para entenderle a la primera. Básicamente, es la explicación de cómo funcionan las cosas en la vida real y para qué nos sirven todas esas fórmulas como ingenieros biotecnólogos.
 
-## 1. La idea general: ¿Por qué darle vueltas a las cosas? (Clase 6)
+## 1. La idea general: ¿Por qué darle vueltas a las cosas? (Clase 5)
 Imagina que agitas agua con arena en un vaso y lo dejas en la mesa. Por pura gravedad, la arena se va al fondo rápido. Pero en biotecnología no separamos arena, separamos células, proteínas o restos celulares que son microscópicos y pesan casi lo mismo que el agua. Si esperamos a que decanten por gravedad (Ley de Stokes clásica), nos graduaríamos antes de que terminen de caer.
 
 **¿Qué hace la centrífuga?** Pone a la gravedad "en esteroides". Al girar la mezcla a miles de revoluciones, cambiamos la aceleración normal ($g$) por una aceleración centrífuga ($\omega^2 r$). Esto multiplica brutalmente la fuerza con la que las partículas son empujadas hacia el fondo (o hacia la pared del equipo), logrando separar en minutos lo que tomaría años.
 
-## 2. Modalidades y el famoso "Diámetro Crítico" (Clase 7)
+## 2. Modalidades y el famoso "Diámetro Crítico" (Clase 6)
 En el laboratorio o en la industria, no solo metemos a girar cosas al azar. Tenemos estrategias:
 * **Diferencial (La clásica):** Es una carrera de velocidad. Los más gordos y pesados (como células completas) se van al fondo primero formando una pastilla (pellet). Lo más ligero se queda flotando en el líquido (sobrenadante).
 * **Por gradiente (La fina):** Es como un pastel de densidades. Ponemos líquidos de diferentes densidades en capas. Las partículas viajan y se "estacionan" justo en la capa que tiene su misma densidad. Es súper útil para separar cosas muy delicadas o parecidas.
@@ -18,7 +18,7 @@ Mientras la mezcla pasa por la máquina, las partículas intentan llegar a la pa
 * Si la partícula es **más grande** que el $D_{pc}$, tiene la fuerza suficiente para chocar contra la pared y la recuperamos.
 * Si es **más pequeña**, no lo logra y se va arrastrada por el desagüe.
 
-## 3. De la mesa a la industria: El Factor Sigma ($\Sigma$) (Clase 8)
+## 3. De la mesa a la industria: El Factor Sigma ($\Sigma$) (Clase 7)
 Aquí es donde entra la verdadera ingeniería. En el laboratorio usas un tubo de 50 mL, pero en la industria necesitas procesar miles de litros. ¿Cómo sabes qué máquina comprar si todas tienen formas y tamaños distintos?
 
 Para no enredarnos calculando trayectorias complejas cada vez, los ingenieros inventaron el **Factor Sigma ($\Sigma$)**. 
